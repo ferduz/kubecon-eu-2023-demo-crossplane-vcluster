@@ -11,7 +11,7 @@ spec:
     directory:
       recurse: true
       include: '*.yaml'
-    repoURL: git@github.com:ferduz/kubecon-eu-2023-demo-crossplane-vcluster.git
+    repoURL: https://github.com/ferduz/kubecon-eu-2023-demo-crossplane-vcluster.git
     targetRevision: HEAD
     path: virtualargocds
   syncPolicy:
